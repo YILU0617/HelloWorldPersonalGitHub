@@ -37,3 +37,4 @@ print("now the tet is ",x)
 
 y=txt.replace("," ," ~")
 print(y)
+
